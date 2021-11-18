@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=teo_peralez_website
+POSTGRES_USER=nxkgPAWDjcAWujVycBUNdmnsvXHDoVnZ
+POSTGRES_PASSWORD=tx1Bpshnrbcvsetq9Al9Ar9MjI9y6udJUqodLEwYt3hHFpuscFVbIaYr70Frk1RJ
